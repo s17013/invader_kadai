@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #004;
+}
+
+canvas#display {
+    width: 800px;
+    height: 565px;
+    background-color: black;
+    margin: 2em auto;
+    display: block;
+}
+
+div#score_block {
+    width: 400px;
+    height: 1.3em;
+    display: block;
+    margin: 1px auto;
+    background-color: orange;
+    line-height: 1.5em;
+    vertical-align: middle;
+    font-size: 12pt;
+}
+
+    width: 800px;
+    height: 1.5em;
+    display: block;
+    margin: 20px auto;
+    background-color: white;
+    line-height: 1.5em;
+    vertical-align: middle;
+    font-size: 18pt;
